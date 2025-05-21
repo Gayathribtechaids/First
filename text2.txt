@@ -1,5 +1,0 @@
-insert the file 
-add the file command git add text3.txt 
-commit                git commit -m"Text3 file is commited"
-git push origin main 
- 
